@@ -86,11 +86,11 @@ Please note that you should edit the `src/style.css` file. The solution cannot b
         - Width: `100%`
         - Collapsed borders
         - A solid `3px`-wide border with the color `purple`
-    3. For the column with the class name `work-experience-years-row`:
+    3. For the column with the class name `work-experience-years-col`:
         - Width: `15%`
-    4. For the column with the class name `work-experience-job-title-row`:
+    4. For the column with the class name `work-experience-job-title-col`:
         - Width: `20%`
-    5. For the column with the class name `work-experience-comment-row`:
+    5. For the column with the class name `work-experience-comment-col`:
         - Width of `65%`
     6. For all `<th>`:
         - Letter spacing: `2px`; [letter-spacing rule](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
