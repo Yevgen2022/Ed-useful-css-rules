@@ -161,16 +161,17 @@ td {
     text-align: left;
 }
 
- /* 3.8 */
- table tfoot th {
+/* 3.8 */
+table tfoot th {
     text-align: right;
- }
+}
 
- /* 3.9 */
-thead, tfoot {
+/* 3.9 */
+thead,
+tfoot {
     background-image: url('images/leopardskin.jpg');
     color: #fff;
-    text-shadow: 1px 1px 1px black; 
+    text-shadow: 1px 1px 1px black;
 }
 
 /* 3.10 */
@@ -181,4 +182,13 @@ caption {
     text-align: right;
     letter-spacing: 1px;
     caption-side: bottom;
+}
+
+
+/* Part Four Requirements: For a   with the class name main-footer:*/
+.main-footer {
+    background: linear-gradient(99.9deg, rgba(27, 24, 31, 1) 21.2%, rgba(50, 4, 89, 1) 84.8%);
+    background-color: purple;
+    color: #fff;
+    padding: 2rem;
 }
