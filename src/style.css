@@ -109,12 +109,55 @@ section.summary {
 
 /* 2.3 */
 .space {
-    background: url('images/rocket_big.png') no-repeat center, 
-                url('images/space.jpg') no-repeat bottom center;
+    background: url('images/rocket_big.png') no-repeat center,
+        url('images/space.jpg') no-repeat bottom center;
     float: left;
     width: 8rem;
     height: 8rem;
     border-radius: 50%;
     margin-right: 15px;
+}
+
+/* Third part of require. Work experience section: */
+
+/* 3.1 */
+.work-experience {
+    margin-top: 2rem;
+}
+
+/* 3.2 */
+.work-experience-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+}
+
+/* 3.3 */
+.work-experience-years-col {
+    width: 15%;
+}
+
+/* 3.4 */
+.work-experience-job-title-col {
+    width: 20%;
+}
+
+/* 3.5 */
+.work-experience-comment-col {
+    width: 65%;
+}
+
+/* 3.6 */
+th {
+    letter-spacing: 2px;
+    padding: 20px;
+    text-align: left;
+}
+
+/* 3.7 */
+td {
+    letter-spacing: 1px;
+    padding: 20px;
+    text-align: left;
 }
 
