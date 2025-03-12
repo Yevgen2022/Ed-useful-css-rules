@@ -161,3 +161,24 @@ td {
     text-align: left;
 }
 
+ /* 3.8 */
+ table tfoot th {
+    text-align: right;
+ }
+
+ /* 3.9 */
+thead, tfoot {
+    background-image: url('images/leopardskin.jpg');
+    color: #fff;
+    text-shadow: 1px 1px 1px black; 
+}
+
+/* 3.10 */
+caption {
+    padding: 20px;
+    color: #666;
+    font-style: italic;
+    text-align: right;
+    letter-spacing: 1px;
+    caption-side: bottom;
+}
