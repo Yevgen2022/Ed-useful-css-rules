@@ -76,16 +76,34 @@ a.contact:active {
 /* 1.9 */
 .contact-phone::before {
     background: url('images/phone-call.svg');
+    /* content: ""; 
+    background: url('images/phone-call.svg');
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 8px; */
 }
 
 /* 1.10 */
 .contact-inst::before {
     background: url('images/instagram-logo.svg');
+    /* content: "";
+    background: url('images/instagram-logo.svg');
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 8px; */
 }
 
 /* 1.11 */
 .contact-twitter::before {
     background: url('images/twitter.svg');
+    /* content: "";
+    background: url('images/twitter.svg');
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 8px; */
 }
 
 /* 1.12 */
