@@ -3,7 +3,7 @@
 A project that showcases advanced HTML and CSS styling techniques for building well-structured layouts. The main focus is on headers, sections, pseudo-elements, responsive tables, background images, and link states using precise CSS selectors and properties.
 
 ## Live Demo
-[Click here to view](https://useful-css-rules-8995b7.gitlab.io)
+[Click here to view](https://yevgen2022.github.io/Ed-useful-css-rules/)
 
 ---
 
